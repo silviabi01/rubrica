@@ -1,0 +1,2 @@
+# rubrica
+progetto hackademy
